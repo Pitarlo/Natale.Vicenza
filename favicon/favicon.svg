@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description><dc:creator>RealFaviconGenerator</dc:creator><dc:source>https://realfavicongenerator.net</dc:source></rdf:Description></rdf:RDF></metadata><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(0.355637747390508,0,0,0.355637747390508,0,72.53765314650491)"><svg xmlns="http://www.w3.org/2000/svg" id="lettere" viewBox="0 0 2811.85 2403.92" width="2811.85" height="2403.92"><defs>
+    <style>
+      .cls-1 {
+        fill: #7f1710;
+      }
+    </style>
+  </defs><polygon class="cls-1" points="1676.62 1308.2 1987.56 1736.62 1737.67 1918.71 1426.76 1490.34 1115.83 1918.71 865.95 1736.62 1176.9 1308.2 674.17 1143.84 769.09 851.33 1272.75 1014.61 1272.75 485.21 1580.76 485.21 1580.76 1014.61 2084.43 851.33 2179.35 1143.84 1676.62 1308.2"></polygon></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(0.355637747390508,0,0,0.355637747390508,0,72.53765314650491)"><svg xmlns="http://www.w3.org/2000/svg" id="lettere" viewBox="0 0 2811.85 2403.92" width="2811.85" height="2403.92"><defs>
+    <style>
+      .cls-1 {
+        fill: #ece2cd;
+      }
+    </style>
+  </defs><polygon class="cls-1" points="1676.62 1308.2 1987.56 1736.62 1737.67 1918.71 1426.76 1490.34 1115.83 1918.71 865.95 1736.62 1176.9 1308.2 674.17 1143.84 769.09 851.33 1272.75 1014.61 1272.75 485.21 1580.76 485.21 1580.76 1014.61 2084.43 851.33 2179.35 1143.84 1676.62 1308.2"></polygon></svg></g></g></svg></g></svg>
