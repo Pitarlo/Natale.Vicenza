@@ -119,18 +119,18 @@ body {
 
 .background-darkred .title-dark,
 .background-darkred .text-dark,
-.background-darkred .title-sand-last,
-.background-darkred .text-sand-last,
+.background-darkred .title-white-last,
+.background-darkred .text-white-last,
 .background-darkred .social-rectangle-link,
 .background-darkred .field,
 .background-darkred .field::placeholder,
-.section-scroll-item-last .title-sand-last,
-.section-scroll-item-last .text-sand-last,
+.section-scroll-item-last .title-white-last,
+.section-scroll-item-last .text-white-last,
 .section-scroll-item-last .social-rectangle-link,
 .section-scroll-item-last .field,
 .section-scroll-item-last .field::placeholder,
-.item-2 .title-sand-last,
-.item-2 .text-sand-last,
+.item-2 .title-white-last,
+.item-2 .text-white-last,
 .item-2 .social-rectangle-link,
 .item-2 .field,
 .item-2 .field::placeholder {
@@ -447,8 +447,8 @@ body {
   display: flex;
 }
 
-.title-sand-last {
-  color: var(--sand);
+.title-white-last {
+  color: var(--white);
   text-align: left;
   letter-spacing: 1px;
   flex: 0 auto;
@@ -459,8 +459,8 @@ body {
   display: block;
 }
 
-.text-sand-last {
-  color: var(--sand);
+.text-white-last {
+  color: var(--white);
   text-align: justify;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -727,8 +727,8 @@ body {
   overflow: visible;
 }
 
-.title-sand {
-  color: var(--sand);
+.title-white {
+  color: var(--white);
   text-align: left;
   letter-spacing: 1px;
   flex: 0 auto;
@@ -739,8 +739,8 @@ body {
   display: block;
 }
 
-.text-sand {
-  color: var(--sand);
+.text-white {
+  color: var(--white);
   text-align: justify;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -884,12 +884,12 @@ body {
     align-items: center;
   }
 
-  .text-item-last .title-sand-last {
+  .text-item-last .title-white-last {
     text-align: center;
     width: 100%;
   }
 
-  .text-item-last .text-sand-last {
+  .text-item-last .text-white-last {
     text-align: justify;
     align-self: flex-start;
     width: 100%;
@@ -947,14 +947,14 @@ body {
     align-items: flex-start;
   }
 
-  .title-sand-last {
+  .title-white-last {
     font-size: 3.5vh;
     line-height: 4.5vh;
     position: static;
     inset: auto auto 50% 0%;
   }
 
-  .text-sand-last {
+  .text-white-last {
     font-size: 1.6vh;
     position: relative;
     inset: auto auto 0% 0%;
@@ -1044,8 +1044,8 @@ body {
     font-size: clamp(52px, 16vw, 96px);
   }
 
-  .title-sand {
-    color: var(--sand);
+  .title-white {
+    color: var(--white);
     text-align: left;
     font-family: Editorial New, Arial, sans-serif;
     font-size: 3.5vh;
@@ -1056,8 +1056,8 @@ body {
     inset: auto auto 50% 0%;
   }
 
-  .text-sand {
-    color: var(--sand);
+  .text-white {
+    color: var(--white);
     text-align: justify;
     font-family: PolySans, Arial, sans-serif;
     font-size: 1.6vh;
